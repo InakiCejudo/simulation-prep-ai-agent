@@ -1,0 +1,7 @@
+.venv
+venv
+instrucciones.txt
+.env.*
+.env
+download_osm_v2.py
+download_osm.py
