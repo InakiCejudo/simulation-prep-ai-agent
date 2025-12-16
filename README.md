@@ -20,7 +20,7 @@ Sistema multiagente IA para descargar el mapa OSM de una localidad, convertirlo 
    python sumo-agent.py
    ```
 
-* Prompt ejemplo: "Descarga y convierte a SUMO el mapa de Pamplona y genera demanda" o "Descarga y convierte a SUMO el mapa de Donostia".
+* __Prompt ejemplo__: "Descarga y convierte a SUMO el mapa de Pamplona y genera demanda" o "Descarga y convierte a SUMO el mapa de Donostia".
 
 ## Arquitectura sistema multi agente
 
