@@ -5,3 +5,4 @@ instrucciones.txt
 .env
 download_osm_v2.py
 download_osm.py
+cache/
